@@ -557,7 +557,7 @@
       "plot": "fabrication/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "detpan1_B.step",
       "svg": "",
       "vrml": ""
     },
